@@ -1,4 +1,7 @@
-# Getting Started with Create React App
+# ROBOFRIENDS APP(from NEXTJS course)
+
+
+Using robohash for the random image urls
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
